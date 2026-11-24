@@ -1,0 +1,25 @@
+{
+  "expo": {
+    "name": "EventSwipe GTA",
+    "slug": "eventswipe-gta",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.demo.eventswipegta"
+    },
+    "android": {
+      "package": "com.demo.eventswipegta",
+      "adaptiveIcon": {
+        "backgroundColor": "#111827"
+      }
+    },
+    "plugins": [
+      "expo-asset"
+    ]
+  }
+}
